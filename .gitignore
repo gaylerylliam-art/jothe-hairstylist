@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+*.log
+desktop-screenshot.png
+mobile-screenshot.png
+scripts/push-github-api.ps1
+
